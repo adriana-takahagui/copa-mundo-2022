@@ -25,7 +25,7 @@ E gera como outputs as seguintes tabelas:
 E para cada dia de simulação, gera os outputs:
 * outputSimulaçõesCopaDoMundo: resultado das 100.000 simulações de um dado dia com as probabilidades de cada etapa da Copa para cada seleção. 
 * outputProbabilidadesPorEtapa: contém as probabilidades de cair em cada etapa da Copa.
-* outputAvançoPorEtapa_Dia0: contém as probabilidades de avançar em cada etapa da Copa.
+* outputAvançoPorEtapa: contém as probabilidades de avançar em cada etapa da Copa.
 
 Para desenvolver o dashboard, também me inspirei no trabalho apresentado pela professora Juliana Scudilio. <br>
 Como fontes de dados para o dashboard, além dos outputs listados acima e das duas tabelas em "DadosCopaDoMundoQatar2022.xlsx", também criei uma tabela com os resultados dos jogos. 
