@@ -30,7 +30,7 @@ E para cada dia de simulação, gera os outputs:
 Para desenvolver o dashboard, também me inspirei no trabalho apresentado pela professora Juliana Scudilio. <br>
 Como fontes de dados para o dashboard, além dos outputs listados acima e das duas tabelas em "DadosCopaDoMundoQatar2022.xlsx", também criei uma tabela com os resultados dos jogos. 
 
-Para visualizar o código comentado, clique [aqui]( https://github.com/adriana-takahagui/copa-mundo-2022/blob/main/Minicurso_FLAI_Data_Science_na_Copa_do_Mundo_Qatar_2022_v2.ipynb ). 
+Para visualizar o código comentado, clique [aqui]( https://github.com/adriana-takahagui/copa-mundo-2022/blob/main/Minicurso_FLAI_Data_Science_na_Copa_do_Mundo_Qatar_2022_v3.ipynb ). 
 
 Para visualizar o resultado em um dashboard interativo e dinâmico, clique [aqui]( https://app.powerbi.com/view?r=eyJrIjoiMTAyMTkyYmEtODIwMi00ZTEwLTkzMzktYTk1MTM5OWMyMjAxIiwidCI6IjgxMTFjMzgxLThjM2EtNDNkMS05ODc4LTA5ZjAzZGQ0N2Y1NiJ9 ).
 
